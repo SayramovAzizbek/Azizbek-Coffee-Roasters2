@@ -147,6 +147,7 @@ header {
   line-height: 15px;
   letter-spacing: 0.923077px;
   text-transform: uppercase;
+  color: #83888F;
 }
 
 .sitenav__item:not(:last-child) {
