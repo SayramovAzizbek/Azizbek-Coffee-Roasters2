@@ -270,6 +270,10 @@ header {
   justify-content: center;
 }
 
+.hero-part__link{
+  text-align: center;
+}
+
 .hero-part__link,
 .coffee-part__link {
   padding: 16px 31px 15px;
